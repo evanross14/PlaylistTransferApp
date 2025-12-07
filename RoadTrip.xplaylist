@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "source": "spotify",
+    "generated_at": "2025-11-24T18:00:00Z",
+    "playlist_name": "Road Trip",
+    "tracks":
+    [
+        {
+            "title": "Shut Up and Drive",
+            "artist": "Rihanna",
+            "album": "Good Girl Gone Bad",
+            "isrc": "USUM70743864",
+            "artwork": { "url": null }
+        },
+        {
+            "title": "Life is a Highway",
+            "artist": "Rascal Flatts",
+            "album": "Me and My Gang",
+            "isrc": "USWD10621404",
+            "artwork": { "url": null }
+        }
+    ]
+}

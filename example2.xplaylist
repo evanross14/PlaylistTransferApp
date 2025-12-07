@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "source": "sample",
+  "generated_at": "2025-11-24T12:05:00Z",
+  "playlist_name": "Focus Beats",
+  "tracks": [
+    {
+      "title": "Deep Work",
+      "artist": "Mono Circuit",
+      "album": "Flow State",
+      "isrc": "US-S1Z-25-10001",
+      "artwork": { "url": null }
+    },
+    {
+      "title": "Code & Coffee",
+      "artist": "Lo-Fi Architects",
+      "album": "Caffeine",
+      "isrc": null,
+      "artwork": { "url": null }
+    }
+  ]
+}

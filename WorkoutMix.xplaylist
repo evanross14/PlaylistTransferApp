@@ -1,0 +1,24 @@
+{
+    "version": 1,
+    "source": "apple_music",
+    "generated_at": "2025-11-23T09:00:00Z",
+    "playlist_name": "Workout Mix",
+    "tracks":
+    [
+        {
+            "title": "Stronger",
+            "artist": "Kanye West",
+            "album": "Graduation",
+            "isrc": "USUM70768168",
+            "artwork": { "url": null }
+        },
+        {
+            "title": "POWER",
+            "artist": "Kanye West",
+            "album": "My Beautiful Dark Twisted Fantasy",
+            "isrc": "USUM71000048",
+            "artwork": { "url": null }
+        }
+    ]
+}
+

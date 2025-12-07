@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "source": "sample",
+  "generated_at": "2025-11-24T12:00:00Z",
+  "playlist_name": "Indie Mix",
+  "tracks": [
+    {
+      "title": "Chanel Boy",
+      "artist": "Lil Uzi Vert",
+      "album": "Chanel Boy - Single",
+      "isrc": null,
+      "artwork": { "url": "https://example.com/art1.jpg" }
+    },
+    {
+      "title": "Paper Planes",
+      "artist": "Atlas Avenue",
+      "album": "City Sketches",
+      "isrc": "US-S1Z-25-00002",
+      "artwork": { "url": null }
+    },
+    {
+      "title": "OMG",
+      "artist": "The Neighbourhood",
+      "album": "(((((ultraSOUND)))))",
+      "isrc":     USWB12503645,
+      "artwork": { "url": null }
+    }
+  ]
+}

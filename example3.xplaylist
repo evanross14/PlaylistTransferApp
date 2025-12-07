@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "source": "sample",
+  "generated_at": "2025-11-24T12:10:00Z",
+  "playlist_name": "Chill Evening",
+  "tracks": [
+    {
+      "title": "Warm Glow",
+      "artist": "Honey Lanterns",
+      "album": "Firefly Nights",
+      "isrc": "US-S1Z-25-20001",
+      "artwork": { "url": null }
+    },
+    {
+      "title": "Soft Echoes",
+      "artist": "Seaside Signal",
+      "album": "Low Tide",
+      "isrc": null,
+      "artwork": { "url": null }
+    },
+    {
+      "title": "Night Walk",
+      "artist": "Neon Bloom",
+      "album": "After Hours",
+      "isrc": "US-S1Z-25-20003",
+      "artwork": { "url": null }
+    }
+  ]
+}

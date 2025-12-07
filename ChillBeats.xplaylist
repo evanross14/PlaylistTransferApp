@@ -1,0 +1,24 @@
+{
+    "version": 1,
+    "source": "spotify",
+    "generated_at": "2025-11-24T10:00:00Z",
+    "playlist_name": "Chill Beats",
+    "tracks":
+    [
+        {
+            "title": "Blinding Lights",
+            "artist": "The Weeknd",
+            "album": "After Hours",
+            "isrc": "USUG11904235",
+            "artwork": { "url": null }
+        },
+        {
+            "title": "Circles",
+            "artist": "Post Malone",
+            "album": "Hollywood's Bleeding",
+            "isrc": "USUM71915645",
+            "artwork": { "url": null }
+        }
+    ]
+}
+
